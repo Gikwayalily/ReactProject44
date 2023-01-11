@@ -1,0 +1,17 @@
+.heading{
+    position: absolute;
+width: 123px;
+height: 22px;
+left: 339px;
+top: 47px;
+
+font-family: 'Urbanist';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #000000;
+}

@@ -1,0 +1,106 @@
+.App{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+.register{
+    /* padding: 20px; */
+    margin: 25px;
+    max-width: 697px;
+    width: 100vw;
+    display: flex;
+    border-radius: 5px;
+    /* border: 2px solid rgb(241, 236, 236); */
+    /* box-shadow: 1px 1px 1px 1px #72b458; */
+    /* background-color: rgb(176, 81, 81); */
+  
+  }
+  #form{
+    max-width: 320px;
+    position: relative;
+    width: 100%;
+    padding: 41px;
+    margin: 15px;
+  }
+  #form h3{
+    position: absolute;
+    font-size: 16px;
+    top: 14px;
+  }
+  #form> input{
+      height: 100%;
+      width: 100%;
+      outline: none;
+      border: none;
+      border-radius: -5px;
+      padding: 4px 1px;
+      border-bottom: 1px solid #43434347; 
+  }
+  #form p{
+    position: absolute;
+    font-size: 7px;
+  
+  }
+  #form> .btn{
+   
+    color: #e9ecef;
+    font-size: 1em;
+    cursor: pointer;
+    border: none;
+    width: 190px;
+    height: 35px;
+
+
+background: #128989;
+border: 1px solid #24DBDB;
+border-radius: 10px;
+  }
+  .col-1, .col-2{
+    width: 50%;
+  }
+  .col-1{
+    background-color:#128989;
+    border-radius: 20px 0px 0px 20px;
+    
+  }
+  .col-2{
+  border: 1px solid #e9ecef;
+  border-radius: 0px 20px 20px 0px;
+  width: 50%;
+  }
+  .col-2 h3{
+    color: rgb(90 80 80);
+  }
+  .link1{
+    text-decoration: none;
+    color:#1d2020;
+    position: relative;
+    left: 152px;
+    top: 5px;
+  }
+  .link2{
+    text-decoration: none;
+    color:#1d2020;
+    position: relative;
+    left: -55px;
+    top: 5px;
+    font-size: 14px;
+  }
+  .link3{
+    text-decoration: none;
+    color:#258882 ;
+    position: relative;
+    left: -158px;
+    top: 5px;
+    font-size: 14px;
+  }
+  .link4{
+    text-decoration: none;
+    color: #258882 ;
+    position: relative;
+    left: 40px;
+    top: 5px;
+    font-size: 14px;
+  }
