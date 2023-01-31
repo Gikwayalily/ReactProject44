@@ -18,8 +18,8 @@ const router = createBrowserRouter([
 function App() {
   return (
     <div className='App'>
-    {/* {/* //      <SignuPage/>
-    //      <Login/>} */}
+       {/* <SignuPage/> */}
+        {/* <Login/>  */}
     <RouterProvider router={router}
     />
     </div>

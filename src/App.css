@@ -2,8 +2,9 @@
 *{
     margin: 0;
     padding: 0;
-    /* box-sizing: border-box;
-    background-color: #E2F5EE52; */
+     box-sizing: border-box;
+   /* background-color: #E2F5EE52; */
     font-family: 'Poppins', sans-serif;
+    color:  #24dbdb;
 }
 

@@ -31,8 +31,9 @@ const Login = () => {
 
             <Link to="/signIn" className="link2" >SignIn</Link>
             <Link to="/login" className="link3" >Login</Link>
-        
+            <input type="text"  className="round"/>
     </div>
+
     </div>
 }
 export default Login
